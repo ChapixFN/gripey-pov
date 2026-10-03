@@ -1,7 +1,7 @@
 # Watchparty
 
-Dieses Repository enthält ausschließlich fertige Downloads. Es enthält keinen App-Quellcode.
+Nur fertige Downloads. Kein App-Quellcode.
 
-[ZIP herunterladen](https://github.com/ChapixFN/gripey-pov/releases/latest/download/Watchparty-3.0.0.zip) · [Installer herunterladen](https://github.com/ChapixFN/gripey-pov/releases/latest/download/Gripey-POV-Setup.exe)
+[ZIP herunterladen](https://github.com/ChapixFN/gripey-pov/releases/latest/download/Watchparty-3.0.1.zip?download=1) · [Installer herunterladen](https://github.com/ChapixFN/gripey-pov/releases/latest/download/Gripey-POV-Setup.exe?download=1)
 
-ZIP entpacken und den Installer ausführen. Bestehende Nutzer können in der App auf Updates prüfen und aktualisieren. Versionen vor 3.0.0 können keine POVs veröffentlichen.
+ZIP entpacken und Installer ausführen. In der bestehenden App: Auf Updates prüfen → Jetzt aktualisieren. Ältere Versionen müssen aktualisiert werden.
